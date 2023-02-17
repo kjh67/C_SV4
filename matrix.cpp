@@ -108,9 +108,5 @@ class Vector {
 int main() {
     int i[] = {1,0,0,1};
     Matrix identity = Matrix(i);
-
-    // TEST THE CLASSES PLS
-
-
     return 0;
 }
